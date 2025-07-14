@@ -1,7 +1,8 @@
 #!/bin/bash
 
-NUMBER1=kalyan
+NUMBER1=100
 NUMBER2=200
+#this comment
 
 TIMESTAMP=$(date)
 echo "Script executed at: $TIMESTAMP"
